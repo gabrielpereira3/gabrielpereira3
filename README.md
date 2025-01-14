@@ -26,6 +26,4 @@ I am a Software Developer with a degree in Computer Science and three years of e
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 
-<br />
-
 #
