@@ -15,6 +15,8 @@ I am a Software Developer with a degree in Computer Science and three years of e
 
 ## Language and Tools
 
+  <br/>
+
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://developer.mozilla.org/en-US/docs/Glossary/TypeScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
