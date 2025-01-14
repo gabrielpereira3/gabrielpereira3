@@ -4,14 +4,16 @@
 
 I am a Software Developer with a degree in Computer Science and three years of experience specializing in building scalable and efficient Node.js RESTful APIs. Passionate about software development, I excel at solving complex problems and delivering innovative, user-focused solutions that drive measurable impact.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/gabrielpereira3">
-         <img alt="linkedin profile" title="Checkout my LinkedIn Profile" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/gabrielpereira3">
+      <img alt="linkedin profile" title="Checkout my LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+    <a href="https://github.com/gabrielpereira3?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/gabrielpereira3?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <a href="https://leetcode.com/u/gabrielpereira3/">
+      <img alt="leetcode profile" title="Checkout my LeetCode Profile" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  </p>
 
 ---
 
