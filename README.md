@@ -1,8 +1,8 @@
 # 🖥 Gabriel Pereira Soares
 
-**`Software Developer`**
+**`Full Stack Developer`**
 
-I am a Software Developer with a degree in Computer Science and three years of experience specializing in building scalable and efficient **Node.js** RESTful APIs. Passionate about software development, I excel at solving complex problems and delivering innovative, user-focused solutions that drive measurable impact.
+I am a Full Stack with a degree in Computer Science and three years of experience specializing in building scalable and efficient **Node.js** RESTful APIs. Passionate about software development, I excel at solving complex problems and delivering innovative, user-focused solutions that drive measurable impact.
 
   <p align="left">
     <a href="https://www.linkedin.com/in/gabrielpereira3" target="_blank">
