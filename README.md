@@ -6,7 +6,6 @@ I am a Full Stack with a degree in Computer Science and three years of experienc
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)]([https://portifolio-e8ff4.web.app](https://gabrielpereira3.github.io))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)]([https://www.linkedin.com/in/gabrielpereira3](https://www.linkedin.com/in/gabrielpereira3))
-[![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge)]([https://leetcode.com/u/gabrielpereira3](https://leetcode.com/u/gabrielpereira3))
 
 ---
 
