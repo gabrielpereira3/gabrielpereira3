@@ -1,6 +1,6 @@
 # 🖥 Gabriel Pereira Soares
 
-**`Full Stack Developer`**
+**`Back End Developer`**
 
 I am a Back End Developer with a degree in Computer Science and three years of experience specializing in building scalable and efficient **Node.js** RESTful APIs. Passionate about software development, I excel at solving complex problems and delivering innovative, user-focused solutions that drive measurable impact.
 
